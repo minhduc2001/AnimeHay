@@ -17,5 +17,16 @@
         "jsxSingleQuote": true
       }
     ]
+    // "no-untyped-vars": "warn"
+    // "@typescript-eslint/no-unused-vars": "warn",
+    // "@typescript-eslint/no-explicit-any": "warn"
   }
+  // "overrides": [
+  //   {
+  //     "files": ["*.ts", "*.tsx"],
+  //     "rules": {
+  //       "@my-eslint-rules/inherit-vars": "error"
+  //     }
+  //   }
+  // ]
 }
